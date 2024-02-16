@@ -1,0 +1,43 @@
+22:27:39.214 [main] INFO  org.testng.annotations.Test - ****** finished TC_024 Home Insurance Input Field ******
+22:27:39.476 [main] INFO  org.testng.annotations.Test - ****** Starting TC_025 Home Insurance Rupees Button ******
+22:27:39.476 [main] INFO  org.testng.annotations.Test - Clicking on Home Insurance Rupees Button
+22:27:42.668 [main] INFO  org.testng.annotations.Test - ****** finished TC_025 Home Insurance Rupees Button ******
+22:27:43.101 [main] INFO  org.testng.annotations.Test - ****** Starting TC_026 Maintenance Expenses Input Field ******
+22:27:43.102 [main] INFO  org.testng.annotations.Test - Entering Data into Maintenance Expenses Input Field 
+22:27:43.276 [main] INFO  org.testng.annotations.Test - ****** finished TC_026 Maintenance Expenses Input Field ******
+22:27:43.476 [main] INFO  org.testng.annotations.Test - ****** Starting TC_027 Reading Data from table ******
+22:27:53.175 [main] INFO  org.testng.annotations.Test - ****** finished TC_027 Reading Data from table ******
+22:27:53.346 [main] INFO  org.testng.annotations.Test - ****** Starting TC_028 Calculators Drop Down ******
+22:27:53.347 [main] INFO  org.testng.annotations.Test - Clicking on Calcullators Drop Down
+22:27:53.495 [main] INFO  org.testng.annotations.Test - ****** finished TC_028 Calculators Drop Down ******
+22:27:53.702 [main] INFO  org.testng.annotations.Test - ****** Starting TC_029 EMI Calculator Page ******
+22:27:53.704 [main] INFO  org.testng.annotations.Test - Clicking on Loan Calculator Link
+22:27:57.276 [main] INFO  org.testng.annotations.Test - ****** finished TC_029 MI Calculator Page ******
+22:27:57.457 [main] INFO  org.testng.annotations.Test - ****** Starting TC_030 EMI Calculator Link ******
+22:27:57.545 [main] INFO  org.testng.annotations.Test - ****** finished TC_030 EMI Calculator Link ******
+22:27:57.724 [main] INFO  org.testng.annotations.Test - ****** Starting TC_031 EMI Calculator Loan Amount Input Field ******
+22:27:57.756 [main] INFO  org.testng.annotations.Test - ****** finished TC_031 EMI Calculator Loan Amount Input Field  ******
+22:27:58.014 [main] INFO  org.testng.annotations.Test - ****** Starting TC_032 EMI Calculator Loan Amount Input Field ******
+22:27:58.342 [main] INFO  org.testng.annotations.Test - ****** finished TC_032 EMI Calculator Loan Amount Input Field  ******
+22:27:58.568 [main] INFO  org.testng.annotations.Test - ****** Starting TC_033 EMI Calculator Interest Rate Input Field ******
+22:27:58.617 [main] INFO  org.testng.annotations.Test - ****** finished TC_033 EMI Calculator Interest Rate Input Field  ******
+22:27:58.895 [main] INFO  org.testng.annotations.Test - ****** Starting TC_034 EMI Calculator Interest Rate Input Field ******
+22:27:59.245 [main] INFO  org.testng.annotations.Test - ****** finished TC_034 EMI Calculator Interest Rate Input Field  ******
+22:27:59.467 [main] INFO  org.testng.annotations.Test - ****** Starting TC_035 EMI Calculator Loan Tenure Input Field ******
+22:27:59.502 [main] INFO  org.testng.annotations.Test - ****** finished TC_035 EMI Calculator Loan Tenure Input Field  ******
+22:27:59.808 [main] INFO  org.testng.annotations.Test - ****** Starting TC_036 EMI Calculator Loan Tenure Input Field ******
+22:28:00.237 [main] INFO  org.testng.annotations.Test - ****** finished TC_036 EMI Calculator Loan Tenure Input Field  ******
+22:28:00.457 [main] INFO  org.testng.annotations.Test - ****** Starting TC_037 EMI Calculator Loan Tenure Month Button ******
+22:28:00.596 [main] INFO  org.testng.annotations.Test - Clicking on EMI Calculator Loan Tenure Month Button 
+22:28:03.873 [main] INFO  org.testng.annotations.Test - ****** finished TC_037 EMI Calculator Loan Tenure Month Button ******
+22:28:04.098 [main] INFO  org.testng.annotations.Test - ****** Starting TC_038 EMI Calculator Loan Charges Input Field ******
+22:28:04.149 [main] INFO  org.testng.annotations.Test - ****** finished TC_038 EMI Calculator Loan Charges Input Field  ******
+22:28:04.548 [main] INFO  org.testng.annotations.Test - ****** Starting TC_039 EMI Calculator Loan Charges Input Field ******
+22:28:05.145 [main] INFO  org.testng.annotations.Test - ****** finished TC_039 EMI Calculator Loan Charges Input Field  ******
+22:28:05.365 [main] INFO  org.testng.annotations.Test - ****** Starting TC_040 Loan Amount Calculator Link ******
+22:28:05.650 [main] INFO  org.testng.annotations.Test - ****** finished TC_040 Loan Amount Calculator Link  ******
+22:28:05.825 [main] INFO  org.testng.annotations.Test - ****** Starting TC_041 Loan Amount EMI Input Field ******
+22:28:05.866 [main] INFO  org.testng.annotations.Test - ****** finished TC_041 Loan Amount EMI Input Field ******
+22:28:06.160 [main] INFO  org.testng.annotations.Test - ****** Starting TC_042 Loan Amount EMI Input Field ******
+22:28:06.566 [main] INFO  org.testng.annotations.Test - ****** finished TC_042 Loan Amount EMI Input Field ******
+22:28:06.758 [main] INFO  org.testng.annotations.Test - ****** Starting TC_043 Loan Amount Interest Rate Input Field ******
